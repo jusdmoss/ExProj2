@@ -8,7 +8,7 @@ def main ():
     t = Test()
     t.speak()
     
-if __name__ == " main":
+if __name__ == "__main__":
     main()
 
 a = "hello"
