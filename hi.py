@@ -4,3 +4,4 @@ class Test:
 
     def speak():
         print("hi")
+        print("there")
