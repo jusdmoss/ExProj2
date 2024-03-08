@@ -17,6 +17,7 @@ b = " nerd"
 print (a,b)
 # this is a change
 a = "good bye"
+b = "bad friend"
 print(a,b)
 # new comment
 
