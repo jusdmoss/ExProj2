@@ -6,4 +6,3 @@ class Gum:
         print("hop on")
         print("the battle bus")
         print("from fortnite")
-        print("not from slay the princess")
